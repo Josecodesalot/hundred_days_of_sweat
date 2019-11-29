@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "327760304674",
+    "firebase_url": "https://hundred-days-of.firebaseio.com",
+    "project_id": "hundred-days-of",
+    "storage_bucket": "hundred-days-of.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327760304674:android:9f5c1109e2e2af78a4087b",
+        "android_client_info": {
+          "package_name": "l.jose.hundred_days_of_sweat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327760304674-u4hvodh1m4sbvpq4n7b8nm6a75rv286p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW1BgHfmEw74E7L73hSqV_ZPmpOPW8qoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327760304674-u4hvodh1m4sbvpq4n7b8nm6a75rv286p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
